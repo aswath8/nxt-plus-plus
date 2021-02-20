@@ -1,5 +1,5 @@
 
-#include "stdafx.h" 
+#include "Windows.h" 
 
 
 #include "..\include\comm.h"
